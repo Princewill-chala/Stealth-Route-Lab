@@ -5,6 +5,7 @@ AWS EC2 lab setup for secure, anonymized browsing and reconnaissance using proxy
 - Install and configure **Tor** and **Proxychains**.
 - Route selected network traffic through Tor.
 - Test using network tools such as `curl`, `wget`, and `nmap`.
+![instance](ubuntu_EC2.png)  
 ## **Objective**
 The goal of this lab is to:
 1. Anonymize outbound connections from an EC2 instance.
