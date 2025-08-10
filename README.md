@@ -38,5 +38,6 @@ sudo systemctl start tor
 curl ifconfig.me
 proxychains curl ifconfig.me
 ```
+![confirmation](EC2_TOR_IP.png)
 ## **Conclusion**
 This lab demonstrated how to route EC2 traffic through Tor with Proxychains, achieving anonymized and secure outbound connections. It provides a foundation for privacy-focused browsing and reconnaissance.
