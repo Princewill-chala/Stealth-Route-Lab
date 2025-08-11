@@ -1,4 +1,5 @@
 # Stealth-Route-Lab
+![image](stealth_routing_lab.png)
 AWS EC2 lab setup for secure, anonymized browsing and reconnaissance using proxychains and Tor.
 ## **Overview**
 - Deploy an EC2 instance running Ubuntu.
